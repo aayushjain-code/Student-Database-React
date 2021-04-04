@@ -30,5 +30,3 @@ To get the frontend running locally:
 - login/logout
 - random profile images
 - GET and display data
-In the project directory, you can run:
-
