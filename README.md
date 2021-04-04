@@ -2,7 +2,7 @@
 
 [![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io)
 
-> ### React + Redux codebase containing real world examples (CRUD, auth, api, etc) .
+> ### React + Redux  (CRUD, auth, api, etc) .
 
 ### [Demo](https://student-database-15cbe.web.app/)&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./ss1.png">
