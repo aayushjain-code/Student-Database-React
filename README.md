@@ -14,6 +14,8 @@
 ## Getting started
 
 You can view a live demo over at https://student-database-15cbe.web.app/
+### ID:-demo@gmail.com
+### pwd:-123456
 
 To get the frontend running locally:
 
