@@ -27,7 +27,8 @@ To get the frontend running locally:
 
 - Authenticate users via firebase.
 - CRUD Opeations
-- CR*D Comments on profiles (no updating required)
+- login/logout
+- random profile images
 - GET and display data
 In the project directory, you can run:
 
