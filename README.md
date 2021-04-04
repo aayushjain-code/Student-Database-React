@@ -5,6 +5,10 @@
 > ### React + Redux codebase containing real world examples (CRUD, auth, api, etc) .
 
 ### [Demo](https://student-database-15cbe.web.app/)&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./ss1.png">
+<img src="./ss2.png">
+<img src="./ss3.png">
+<img src="./ss4.png">
 
 
 ## Getting started
